@@ -1,104 +1,104 @@
 # gun_store
-A place to purchase guns and ammo (interdimensional guns removed).
+A place to purchase guns and ammo.
 
 ## Store Addresses
-1. 1001 Main St, Store City 1, ST 10001
-2. 1002 Main St, Store City 2, ST 10002
-3. 1003 Main St, Store City 3, ST 10003
-4. 1004 Main St, Store City 4, ST 10004
-5. 1005 Main St, Store City 5, ST 10005
-6. 1006 Main St, Store City 6, ST 10006
-7. 1007 Main St, Store City 7, ST 10007
-8. 1008 Main St, Store City 8, ST 10008
-9. 1009 Main St, Store City 9, ST 10009
-10. 1010 Main St, Store City 10, ST 10010
-11. 1011 Main St, Store City 11, ST 10011
-12. 1012 Main St, Store City 12, ST 10012
-13. 1013 Main St, Store City 13, ST 10013
-14. 1014 Main St, Store City 14, ST 10014
-15. 1015 Main St, Store City 15, ST 10015
-16. 1016 Main St, Store City 16, ST 10016
-17. 1017 Main St, Store City 17, ST 10017
-18. 1018 Main St, Store City 18, ST 10018
-19. 1019 Main St, Store City 19, ST 10019
-20. 1020 Main St, Store City 20, ST 10020
-21. 1021 Main St, Store City 21, ST 10021
-22. 1022 Main St, Store City 22, ST 10022
-23. 1023 Main St, Store City 23, ST 10023
-24. 1024 Main St, Store City 24, ST 10024
-25. 1025 Main St, Store City 25, ST 10025
-26. 1026 Main St, Store City 26, ST 10026
-27. 1027 Main St, Store City 27, ST 10027
-28. 1028 Main St, Store City 28, ST 10028
-29. 1029 Main St, Store City 29, ST 10029
-30. 1030 Main St, Store City 30, ST 10030
-31. 1031 Main St, Store City 31, ST 10031
-32. 1032 Main St, Store City 32, ST 10032
-33. 1033 Main St, Store City 33, ST 10033
-34. 1034 Main St, Store City 34, ST 10034
-35. 1035 Main St, Store City 35, ST 10035
-36. 1036 Main St, Store City 36, ST 10036
-37. 1037 Main St, Store City 37, ST 10037
-38. 1038 Main St, Store City 38, ST 10038
-39. 1039 Main St, Store City 39, ST 10039
-40. 1040 Main St, Store City 40, ST 10040
-41. 1041 Main St, Store City 41, ST 10041
-42. 1042 Main St, Store City 42, ST 10042
-43. 1043 Main St, Store City 43, ST 10043
-44. 1044 Main St, Store City 44, ST 10044
-45. 1045 Main St, Store City 45, ST 10045
-46. 1046 Main St, Store City 46, ST 10046
-47. 1047 Main St, Store City 47, ST 10047
-48. 1048 Main St, Store City 48, ST 10048
-49. 1049 Main St, Store City 49, ST 10049
-50. 1050 Main St, Store City 50, ST 10050
-51. 1051 Main St, Store City 51, ST 10051
-52. 1052 Main St, Store City 52, ST 10052
-53. 1053 Main St, Store City 53, ST 10053
-54. 1054 Main St, Store City 54, ST 10054
-55. 1055 Main St, Store City 55, ST 10055
-56. 1056 Main St, Store City 56, ST 10056
-57. 1057 Main St, Store City 57, ST 10057
-58. 1058 Main St, Store City 58, ST 10058
-59. 1059 Main St, Store City 59, ST 10059
-60. 1060 Main St, Store City 60, ST 10060
-61. 1061 Main St, Store City 61, ST 10061
-62. 1062 Main St, Store City 62, ST 10062
-63. 1063 Main St, Store City 63, ST 10063
-64. 1064 Main St, Store City 64, ST 10064
-65. 1065 Main St, Store City 65, ST 10065
-66. 1066 Main St, Store City 66, ST 10066
-67. 1067 Main St, Store City 67, ST 10067
-68. 1068 Main St, Store City 68, ST 10068
-69. 1069 Main St, Store City 69, ST 10069
-70. 1070 Main St, Store City 70, ST 10070
-71. 1071 Main St, Store City 71, ST 10071
-72. 1072 Main St, Store City 72, ST 10072
-73. 1073 Main St, Store City 73, ST 10073
-74. 1074 Main St, Store City 74, ST 10074
-75. 1075 Main St, Store City 75, ST 10075
-76. 1076 Main St, Store City 76, ST 10076
-77. 1077 Main St, Store City 77, ST 10077
-78. 1078 Main St, Store City 78, ST 10078
-79. 1079 Main St, Store City 79, ST 10079
-80. 1080 Main St, Store City 80, ST 10080
-81. 1081 Main St, Store City 81, ST 10081
-82. 1082 Main St, Store City 82, ST 10082
-83. 1083 Main St, Store City 83, ST 10083
-84. 1084 Main St, Store City 84, ST 10084
-85. 1085 Main St, Store City 85, ST 10085
-86. 1086 Main St, Store City 86, ST 10086
-87. 1087 Main St, Store City 87, ST 10087
-88. 1088 Main St, Store City 88, ST 10088
-89. 1089 Main St, Store City 89, ST 10089
-90. 1090 Main St, Store City 90, ST 10090
-91. 1091 Main St, Store City 91, ST 10091
-92. 1092 Main St, Store City 92, ST 10092
-93. 1093 Main St, Store City 93, ST 10093
-94. 1094 Main St, Store City 94, ST 10094
-95. 1095 Main St, Store City 95, ST 10095
-96. 1096 Main St, Store City 96, ST 10096
-97. 1097 Main St, Store City 97, ST 10097
-98. 1098 Main St, Store City 98, ST 10098
-99. 1099 Main St, Store City 99, ST 10099
-100. 1100 Main St, Store City 100, ST 10100
+1. 1207 Oak Ridge Blvd, Phoenix, AZ 85001
+2. 1214 Maple Grove Ave, Dallas, TX 85002
+3. 1221 Cedar Hill Rd, Jacksonville, FL 85003
+4. 1228 Pine Valley Dr, Columbus, OH 85004
+5. 1235 Riverstone Way, Charlotte, NC 85005
+6. 1242 Ironwood St, Nashville, TN 85006
+7. 1249 Liberty Lane, Denver, CO 85007
+8. 1256 Frontier Pkwy, El Paso, TX 85008
+9. 1263 Summit View Rd, Detroit, MI 85009
+10. 1270 Heritage Ave, Memphis, TN 85010
+11. 1277 Prairie Run, Portland, OR 85011
+12. 1284 Canyon Crest Dr, Oklahoma City, OK 85012
+13. 1291 Copperfield Rd, Las Vegas, NV 85013
+14. 1298 Silver Lake Blvd, Louisville, KY 85014
+15. 1305 Hawthorne St, Baltimore, MD 85015
+16. 1312 Briarwood Ave, Milwaukee, WI 85016
+17. 1319 Willow Bend Rd, Albuquerque, NM 85017
+18. 1326 Stonebridge Dr, Tucson, AZ 85018
+19. 1333 Fox Hollow Way, Fresno, CA 85019
+20. 1340 Redwood Pkwy, Sacramento, CA 85020
+21. 1347 Oak Ridge Blvd, Kansas City, MO 85021
+22. 1354 Maple Grove Ave, Mesa, AZ 85022
+23. 1361 Cedar Hill Rd, Atlanta, GA 85023
+24. 1368 Pine Valley Dr, Omaha, NE 85024
+25. 1375 Riverstone Way, Raleigh, NC 85025
+26. 1382 Ironwood St, Phoenix, AZ 85026
+27. 1389 Liberty Lane, Dallas, TX 85027
+28. 1396 Frontier Pkwy, Jacksonville, FL 85028
+29. 1403 Summit View Rd, Columbus, OH 85029
+30. 1410 Heritage Ave, Charlotte, NC 85030
+31. 1417 Prairie Run, Nashville, TN 85031
+32. 1424 Canyon Crest Dr, Denver, CO 85032
+33. 1431 Copperfield Rd, El Paso, TX 85033
+34. 1438 Silver Lake Blvd, Detroit, MI 85034
+35. 1445 Hawthorne St, Memphis, TN 85035
+36. 1452 Briarwood Ave, Portland, OR 85036
+37. 1459 Willow Bend Rd, Oklahoma City, OK 85037
+38. 1466 Stonebridge Dr, Las Vegas, NV 85038
+39. 1473 Fox Hollow Way, Louisville, KY 85039
+40. 1480 Redwood Pkwy, Baltimore, MD 85040
+41. 1487 Oak Ridge Blvd, Milwaukee, WI 85041
+42. 1494 Maple Grove Ave, Albuquerque, NM 85042
+43. 1501 Cedar Hill Rd, Tucson, AZ 85043
+44. 1508 Pine Valley Dr, Fresno, CA 85044
+45. 1515 Riverstone Way, Sacramento, CA 85045
+46. 1522 Ironwood St, Kansas City, MO 85046
+47. 1529 Liberty Lane, Mesa, AZ 85047
+48. 1536 Frontier Pkwy, Atlanta, GA 85048
+49. 1543 Summit View Rd, Omaha, NE 85049
+50. 1550 Heritage Ave, Raleigh, NC 85050
+51. 1557 Prairie Run, Phoenix, AZ 85051
+52. 1564 Canyon Crest Dr, Dallas, TX 85052
+53. 1571 Copperfield Rd, Jacksonville, FL 85053
+54. 1578 Silver Lake Blvd, Columbus, OH 85054
+55. 1585 Hawthorne St, Charlotte, NC 85055
+56. 1592 Briarwood Ave, Nashville, TN 85056
+57. 1599 Willow Bend Rd, Denver, CO 85057
+58. 1606 Stonebridge Dr, El Paso, TX 85058
+59. 1613 Fox Hollow Way, Detroit, MI 85059
+60. 1620 Redwood Pkwy, Memphis, TN 85060
+61. 1627 Oak Ridge Blvd, Portland, OR 85061
+62. 1634 Maple Grove Ave, Oklahoma City, OK 85062
+63. 1641 Cedar Hill Rd, Las Vegas, NV 85063
+64. 1648 Pine Valley Dr, Louisville, KY 85064
+65. 1655 Riverstone Way, Baltimore, MD 85065
+66. 1662 Ironwood St, Milwaukee, WI 85066
+67. 1669 Liberty Lane, Albuquerque, NM 85067
+68. 1676 Frontier Pkwy, Tucson, AZ 85068
+69. 1683 Summit View Rd, Fresno, CA 85069
+70. 1690 Heritage Ave, Sacramento, CA 85070
+71. 1697 Prairie Run, Kansas City, MO 85071
+72. 1704 Canyon Crest Dr, Mesa, AZ 85072
+73. 1711 Copperfield Rd, Atlanta, GA 85073
+74. 1718 Silver Lake Blvd, Omaha, NE 85074
+75. 1725 Hawthorne St, Raleigh, NC 85075
+76. 1732 Briarwood Ave, Phoenix, AZ 85076
+77. 1739 Willow Bend Rd, Dallas, TX 85077
+78. 1746 Stonebridge Dr, Jacksonville, FL 85078
+79. 1753 Fox Hollow Way, Columbus, OH 85079
+80. 1760 Redwood Pkwy, Charlotte, NC 85080
+81. 1767 Oak Ridge Blvd, Nashville, TN 85081
+82. 1774 Maple Grove Ave, Denver, CO 85082
+83. 1781 Cedar Hill Rd, El Paso, TX 85083
+84. 1788 Pine Valley Dr, Detroit, MI 85084
+85. 1795 Riverstone Way, Memphis, TN 85085
+86. 1802 Ironwood St, Portland, OR 85086
+87. 1809 Liberty Lane, Oklahoma City, OK 85087
+88. 1816 Frontier Pkwy, Las Vegas, NV 85088
+89. 1823 Summit View Rd, Louisville, KY 85089
+90. 1830 Heritage Ave, Baltimore, MD 85090
+91. 1837 Prairie Run, Milwaukee, WI 85091
+92. 1844 Canyon Crest Dr, Albuquerque, NM 85092
+93. 1851 Copperfield Rd, Tucson, AZ 85093
+94. 1858 Silver Lake Blvd, Fresno, CA 85094
+95. 1865 Hawthorne St, Sacramento, CA 85095
+96. 1872 Briarwood Ave, Kansas City, MO 85096
+97. 1879 Willow Bend Rd, Mesa, AZ 85097
+98. 1886 Stonebridge Dr, Atlanta, GA 85098
+99. 1893 Fox Hollow Way, Omaha, NE 85099
+100. 1900 Redwood Pkwy, Raleigh, NC 85100
